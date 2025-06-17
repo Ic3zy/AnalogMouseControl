@@ -38,7 +38,7 @@ All mouse input is sent using Windows API calls for accurate control.
 Install dependencies with:
 
 ```
-pip install req.txt
+pip install -r req.txt
 ```
 
 ---
